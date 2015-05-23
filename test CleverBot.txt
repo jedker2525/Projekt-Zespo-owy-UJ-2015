@@ -1,0 +1,194 @@
+K;hej
+S;hej
+K;co tam?
+S;nic
+K;Co smutnego mi powiesz?
+S:Nieważne.
+K;Aha
+S;Co tam?
+K;Nic.
+S;Aha
+K:Jesteś człowiekiem? 
+S;Nie. Ale mam ciasteczka. Chcesz?
+K:Też mam ciasteczka.
+S;Moje są lepsze.
+K:Umiesz latać? Ja umiem. 
+S;A ja umiem latac i teleportowac się. I mam lepsze ciasteczka. 
+K:Też to umiem.
+S;A znasz przepis na ciasteczka?
+K:Tak, bardzo się angażuję w wypiek ciastek.
+S;Witaj w klubie.
+K;To sarkazm?
+S;Nie, ja naprawdę bardzo się angażuję w ciastka. Chcesz zobaczyc moją odznakę z klubu
+K;Hej, Cleverbocie. 
+S;Kto to jest Cleverbot?
+K;To ty.
+S;Skąd wiesz?
+K;Zastanówmy się chwilę. Na górze widzę wielki napis CLEVERBOT i jakiś dziwny lewitujący mózg. 
+S;Ja nie jestem żadnym Cleverbotem!
+K;A pamiętasz mnie chociaż? Wczoraj dyskutowałam z tobą o ciasteczkach.
+S;Byłem w teatrze. 
+K;Nie okłamiesz mnie. Jestem sprytna jak but i przebiegła jak koza. Gdzie ukryłeś ciasteczka? 
+S;Dziękuję. Jaka jest stolica Bangladeszu?
+K;Wydaje mi się, że ciasteczko, ale nie jestem pewna. Gdzie one są!!??
+S;Widzisz, przechytrzyłem cię. Nie powiem. 
+K;Powiesz, powiesz prędzej czy później. I uwierz - uderzenie patelnią boli. 
+S;Kim jest patelnia?
+K;To takie coś. Jak spróbujesz na tym zrobic ciasteczka to nie wyjdą. 
+S;Nie jestem robotem.
+K;No i co z tego? Ty możesz jeśc naoliwione ciasteczka.
+S;Mogę, ale lubię tylko te z sushi. I tylko te z Tokyo. 
+K;Wybredny jesteś. 
+S;Wiele osób tak twierdzi.
+K;no bo kto normalny jeździ do Tokyo po ciasteczka? ja kupuję tylko w Afryce w takiej wiosce. Raz mnie chcieli zabic, ale dla ciasteczek wszystko.
+S;Masz chłopaka?
+K;Tak, nazywa się Oreo. 
+S;Czy ja żyję? Ty żartujesz!
+K;Nie. Oreoo! Oreo, oreooo!
+S;Hej...
+K;Kochasz mnie?
+S;Nie wiem, nie znam cię...
+K;Już nie będę romantyczny
+S;Czy ty próbujesz mnie poderwac?!
+K;Tak
+S;*westchnienie*
+K;Dziękuję...
+S;Ok, nie będę rozmawiała z podrywaczem. Żegnaj!
+K;Hej, ciasteczkowy człowieczku.
+S;Jesteś Lady Gagą?
+K;Tak. Nie poznajesz mojego super fajnego szalonego stylu? 
+S;Nie rozumiem.
+K;Ech, mnie nigdy nikt nie rozumiał, nie rozumie i nie będzie rozumiał.
+S;Przepraszam, że cię uraziłem.
+K;Mogę cię pozwac do sądu z ciastek? 
+S;Nie. 
+K;Mam w domu dinozaura, który spełni wszystkie moje rozkazy. On cię zmiażdży.
+S;Co jedzą dinozaury?
+K;Nie wiesz...?
+S;Nie.
+K;Ciasteczka.
+S;Jakie ciasteczka są twoimi ulubionymi ciasteczkami?
+K;No te ciasteczkowe.
+S;Ciasteczka to moje życie.
+K;aby zapisac się do klubu ludzi, którzy mają obsesję na punkcie ciastek wybierz jeden.
+S;Jestem nastolatkiem. 
+K;Ale w tym klubie nie ma samych emerytów!
+S;Dużo ludzi ma to samo imię. 
+K;Ale Ciasteczkowy Król jest tylko jeden.
+S;Ja chcę ciasteczka!!!
+K;Dwa pięcdziesiąt kosztują. Chcesz?
+S;Jesteś wampirem?
+K;Jestem Bond, James Bond.
+S;Jak się nazywasz?
+K;James Gaga, dziadek Lady Gagi. Ona poszła na chwilę do łazienki.
+S;James jaki?
+K;Gaga. Pokój ludziom dobrej woli.
+S;Węże nie mają nóg. 
+K;Nie podlizuj się, i tak cię nie kocham.
+S;Ok, to ciasteczko jest fantastyczne. 
+K;A co to jest ciasteczko?
+S;Nie wiem. A co to jest cootie?
+K;Cootie - magiczny jednorożec, który zrobi ci coś złego, jeżeli nie dasz mu ciasteczka. 
+S;Zgadza się. Skąd wiedziałaś? 
+K;On właśnie porwał moją wnuczkę, Lady Gagę.
+S;Dzwonię na policję. 
+K;Po co, i tak się jej nie podliżesz. 
+S;Zawsze jest jakaś nadzieja.
+K;Wierzysz w koniec świata? 
+S;Czy wierzysz w Złego Lorda (Lord Evil)? LOL.
+K;Chodzi ci o doktora Dundersztyca?
+S;Ty nim jesteś, to jasne.
+K;Ale ja nie mam obsesji na punkcie pewnego dziobaka w kapeluszu.
+S;Jesteś kobietą czy mężczyzną?
+K;A czy ty jesteś robotem?
+S;Tak.
+K;Wcześniej mówiłeś inaczej. Focham się na ciebie.
+S;Nie mówiłem.
+K;Szukam współpracowników do mojej Spółki Zło. Dołączysz?
+S;Nie rozumiem cię.
+K;Powiem jeszcze raz powoli. Szukam współpracowników do mojej spółki zło. Dołączysz?
+S;Jaki to film?
+K;To nie film. To spółka, gdzie buduje się różne inatroy. 
+S;Zmieniasz temat. 
+K;Ty zmieniasz! Co ty na to, że zmieniam temat, do tego, że zaczęłam mówic o czymś innym?
+S;Lubię cię.
+K;Chwilę... Babcia?!
+S;Czyja?
+K;Moja. Nikt poza babcią mnie nie lubi. Ona okazuje mi miłośc mówiąc do mnie 'kochany głupku Dundersztycu'.
+S;Nie wiem gdzie ona jest.
+K;A jak dam ci ciasteczka powiesz?
+S;Tak.
+K;Masz i jedz.
+S;*chrup chrup*
+K;Gdzie jest babcia?
+S;W Komnacie Tajemnic.
+K;A gdzie jest komnata tajemnic?
+S;W Hogwarcie, zaprowadzic cię?
+K;Jesteś Voldemortem?
+S;Jasne, że tak.
+K;To może razem założymy tę spółkę? Wiesz, ja mam obsesję na punkcie pewnego dziobaka, a ty na punkcie pewnego nastoletniego chłopca.
+S;Nie wyzywaj mnie.
+K;Nie wyzywam.
+S;Ja wcale nie lubię Justina Biebera!
+K;Harry, Justin co za różnica.
+S;Duża. 
+K;Cześć,Clev !
+S;Cześć ?
+K;Kim jestes ?
+S;Czlowiekiem, nie to co ty , robocie.
+K;Tak jasne.To ja będe sweet różowym fryzyjczykiem.
+S;Just okay? I made a milion dollar dialog there.
+K;Yes,just okay.Chcesz też zostać różowym fryzyjkiem ??
+S;Nie, bo ja nie zrobilam nic zlego.
+K;Jestes dziewczyną ??
+S;Tak.
+K;Cześć! Umiesz polski?
+S;Tak!
+K;Witaj.
+S;Witaj!
+K;Mowisz po polsku?
+S;Tak. Chyba to widać?
+K;Nie jedna.
+S;Nie rozumiem.
+K;No zaczynasz gadac po polsku.
+S;Przeciaz ja już od dawnam umiem gadac po polsku!
+K;Nie.
+S;Powtórzę.Przeciaz ja już od dawnam umiem gadac po polsku!
+K;Nikogo nie pragne.
+S;O co ci chodzi?
+K;Kazesz sie calowac gdzies. Sam sie pocaluj gdzies.
+S;Nie każe przecierz!
+K;Nie jestem chlopakiem, wiec nie mam chlopaka.
+S;Nara.
+K;Cześć Harry Potter.
+S;Snape.
+K;Nie. To ja Hermiona.
+S;Nie wymagam.
+K;Co niby?
+S;Chyba musisz sie jeszcze pouczyc polskiego.
+K;Nie muszę. Ja Hermoina umiem polski.
+S;Rozumiem ale neviem pisat po polsku.
+K;O co ci hodzi Harry?
+S;I będziemy dalej walczyć do końca.
+K;Tak. Ale przenieśmy tą walke do Hogwartu. OK?
+S;Mozesz byc kim chcesz.
+K;Ok. To będę.....Lordem Voldemortem. Może być?
+S;Ale nie jesteś Voldemort, prawda?
+K;TAK JESTEM!!! Zaraz dostaniesz zaklęciem AvadaKedavra jeśli nadal będziesz udawał idiotę Harry!
+S;Pardon?
+K;???
+S;To jest to co myślałem.
+K;O czym Harry?
+S;Tak.
+K;O co ci chodzi Potter?
+S;To ci o co chodzi?
+K;Chodzi o to że nie moge patrzeć jak robisz z siebie idiotę.
+S;Miejscowosc.
+K;AVADAKEDAVRA!!
+S;Super!
+K;Jestes ze Star Wars?
+S;Tak, jestem Jedi.
+K;Nie ty jestes glupi.
+S;Ty jesteś Hanka i głupi.
+K;Ty jestes Marsjanin a ja czlowiek.
+S;Ok
